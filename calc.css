@@ -1,0 +1,38 @@
+body,html{
+	font-family: Prompt;
+	background: black;
+}
+h1{
+	color: white;
+	font-family: "oswald";
+}
+#calcOutput{
+	width:250px;
+	height: 70px;
+	background-color:#fff;
+	margin: auto ;
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+}
+#calculator{
+	background: gray;
+	width: 250px;
+
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+a{
+margin:5px;
+width: 45px;
+
+}
+.bigButton{
+	width: 110px;
+
+}
+#steps{
+	padding-top: 10px;
+	padding-left: 20px;
+	font-size: 20px;
+}
